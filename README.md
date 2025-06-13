@@ -1,8 +1,8 @@
-# Open token
+# OpenToken
 
 ## Introduction
 
-Truveta’s approach to person matching relies on building a set of matching tokens (or token signatures) per person which are derived from deterministic person data but preserve privacy by using cryptographically secure hashing algorithms.
+OpenToken’s approach to person matching relies on building a set of matching tokens (or token signatures) per person which are derived from deterministic person data but preserve privacy by using cryptographically secure hashing algorithms.
 
 ## Token generation strategy
 
